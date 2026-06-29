@@ -32,9 +32,9 @@ The solver applies strict **superposition mechanics** to calculate separate matr
 
 ---
 
-<img src="Output_Visuals/plots.png" width="300" alt="GUI Interface">
+<img src="Output_Visuals/plots.png" width="400" alt="GUI Interface">
 
-<img src="Output_Visuals/Input_GUI.png" width="300" alt="GUI Interface">
+<img src="Output_Visuals/Input_GUI.png" width="400" alt="GUI Interface">
 ---
 ## How to Execute the Tool
 
