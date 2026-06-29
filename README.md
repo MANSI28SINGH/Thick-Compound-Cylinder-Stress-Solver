@@ -31,6 +31,7 @@ The solver applies strict **superposition mechanics** to calculate separate matr
 * **Auto-Annotating Visualizer:** Leverages `Matplotlib` engines to map continuous stress curves, automatically calculating and dynamically placing digital text banners marking peak global extremes.
 
 ---
+<img src="Output_Visuals/type_of_cylinder.png" width="400" alt="GUI Interface">
 
 <img src="Output_Visuals/plots.png" width="400" alt="GUI Interface">
 
